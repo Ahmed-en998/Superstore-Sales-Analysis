@@ -35,16 +35,19 @@ The goal is to simulate a real-world freelance data analysis project using SQL a
 - However, performance has plateaued, indicating room for optimization.
 
 ### 🌍 Regional Analysis
+![Regional Performance](Images/region_analysis.png)
 - West region is the top performer (highest sales & profit).
 - Central region underperforms with the lowest profit margin.
 
 ### 📦 Product Analysis
+![Category Analysis](Images/category_analysis.png)
 - Technology is the most profitable category.
 - Furniture is underperforming, especially:
   - Tables (major losses)
   - Bookcases
 
 ### 💸 Discount Analysis
+![Discount Analysis](Images/discount_analysis.png)
 - Discounts above 20% lead to losses.
 - Discounts above 30% result in severe negative margins (-48%).
 - Many sales occur without discounts, proving discounts are not always necessary.
