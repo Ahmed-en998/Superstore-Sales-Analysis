@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 This project analyzes a retail Superstore dataset to evaluate business performance, identify profitability issues, and provide actionable recommendations.
 
-The goal is to simulate a real-world freelance data analysis project using SQL and business insights.
 
 ---
 
